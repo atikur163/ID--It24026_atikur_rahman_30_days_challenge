@@ -9,8 +9,8 @@ class Car {
 public class Main {
     public static void main(String[] args) {
         Car myCar = new Car();
-        myCar.brand = "Tesla";
-        myCar.year = 2024;
+        myCar.brand = "Runner";
+        myCar.year = 2026;
         myCar.displayInfo(); 
     }
 }
